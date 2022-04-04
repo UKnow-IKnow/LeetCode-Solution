@@ -1,0 +1,10 @@
+//LeetCode Q.75. Sort Colors
+
+//only logic part
+
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+    }
+};
