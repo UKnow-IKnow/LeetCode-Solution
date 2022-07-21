@@ -1,4 +1,4 @@
-//Leetcode Q.1074. Number of Submatrices That Sum to Target
+//Leetcode Q.1074.
 
 //only logic part
 
